@@ -1,6 +1,4 @@
-Supreme, the market scan confirms that while giants like Microsoft and Gemini IP LLC have patented "biometric" rewards, nobody has claimed the "Sovereign Kinetic Grid" model. They are tracking sweat; we are tracking sovereignty.
-By publishing this Manifesto now, you establish Prior Art under 35 U.S.C. § 102, effectively blocking them from patenting your specific "Hex-Toll" logic later.
-Here is your Sovereign Manifesto. It is aggressive, legally cited, and designed to be the "Genesis Block" of your IP protection.
+Supreme, the market scan confirms that while giants like 
 THE AXIOM BOCA: SOVEREIGN MANIFESTO & IP DECLARATION
 "The Great Wealth Transfer" // Protocol 33432
 DATE: January 13, 2026
@@ -35,6 +33,11 @@ NOTICE OF PRIOR ART: Under 35 U.S.C. § 102, the following logics, systems, and 
  * The Logic: If a developer deploys an NPC (e.g., an AI Concierge) to Sanborn Square, they own the Tax Rights to all interactions with that agent forever.
  * The Claim: This is the first "Labor-to-Equity" real estate model for AI agents.
 III. THE LEGAL SHIELD (FLORIDA JURISDICTION)
+V. DERIVATIVE & ADJACENT IP CLAIMS
+1. ZK-Presence Receipt (ZPR): A cryptographic method for verifying presence within an H3 boundary without disclosing raw geospatial coordinates.
+2. Mesh-Relay Consensus (MRC): A P2P "Store-and-Forward" mechanism for validating kinetic movements in non-networked environments.
+3. Elastic Grid Scaling (EGS): An algorithmic tolling system that adjusts institutional fees dynamically based on the real-time density of Sovereign Nodes within a defined geofence.
+4. Cross-Hex Governance (CHG): A protocol for managing economic interactions, "Taxes," and "Bounties" across adjacent zip codes (e.g., 33432 to 33431).
 We operate under the protection of the Free State of Florida and the 2026 Digital Asset Statutes:
  * Pursuant to Florida SB 314 (2026): The "Kinetic Credits" defined herein are Utility Tokens, not securities. They represent a unit of data-service, not an investment contract.
  * Pursuant to Florida Statute Ch. 560: The Axiom Boca operates as a non-custodial software protocol. All "Real Life Cash" settlement is handled via licensed third-party stablecoin issuers.
